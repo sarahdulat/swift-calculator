@@ -216,6 +216,9 @@
                             </mask>
                         </variation>
                     </view>
+                    <connections>
+                        <outlet property="Label" destination="NGr-tE-sLo" id="e9L-Ja-JAc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
