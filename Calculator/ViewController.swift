@@ -39,5 +39,18 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+        @IBAction func Digit(sender: AnyObject) {
+        }
 
-};
+        @IBAction func Cancel(sender: AnyObject) {
+        }
+        
+        @IBAction func Calculate(sender: AnyObject) {
+        }
+        
+        @IBAction func Operations(sender: AnyObject) {
+        }
+        
+        
+        
+    };
